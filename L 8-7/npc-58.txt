@@ -1,0 +1,7 @@
+npcblock=0
+npcblocktop=0
+nogravity=1
+frames=3
+framespeed=7
+name="Player_Block/NPC_Semisolid"
+grid=16

@@ -1,0 +1,8 @@
+gfxwidth=32
+gfxheight=32
+foreground=1
+width=32
+height=32
+speed=0
+noblockcollision=1
+frames=1

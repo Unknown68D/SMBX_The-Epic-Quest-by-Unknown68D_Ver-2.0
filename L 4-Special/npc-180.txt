@@ -1,0 +1,8 @@
+height=128
+width=96
+gfxheight=128
+gfxwidth=96
+npcblock=1
+npcblocktop=1
+framestyle=0
+frames=1

@@ -1,0 +1,13 @@
+gfxwidth=112
+gfxheight=120
+width=96
+height=104
+gfxoffsety=10
+frames=2
+framestyle=0
+nogravity=1
+noblockcollision=1
+npcblock=0
+nofireball=1
+noiceball=1
+noyoshi=1

@@ -1,0 +1,14 @@
+width=50
+height=44
+gfxwidth=50
+gfxheight=44
+frames=1
+framestyle=1
+playerblock=0
+npcblock=0
+playerblocktop=0
+npcblocktop=0
+nohurt=1
+jumphurt=1
+nogravity=1
+noblockcollision=1

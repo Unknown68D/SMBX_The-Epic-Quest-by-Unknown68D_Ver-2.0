@@ -1,0 +1,6 @@
+gfxoffsety=8
+gfxwidth=40
+gfxheight=64
+width=32
+height=48
+speed=1

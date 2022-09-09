@@ -1,0 +1,7 @@
+playerblocktop=1
+width=32
+height=96
+gfxwidth=32
+gfxheight=96
+nofire=1
+noice=1

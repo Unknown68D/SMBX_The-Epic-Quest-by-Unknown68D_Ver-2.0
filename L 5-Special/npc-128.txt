@@ -1,0 +1,7 @@
+gfxheight=48
+foreground=1
+height=48
+speed=0.5
+frames=3
+framespeed=7
+framestyle=1

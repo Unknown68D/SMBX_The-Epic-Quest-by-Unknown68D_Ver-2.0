@@ -1,0 +1,4 @@
+gfxheight=98
+gfxwidth=82
+height=98
+width=82

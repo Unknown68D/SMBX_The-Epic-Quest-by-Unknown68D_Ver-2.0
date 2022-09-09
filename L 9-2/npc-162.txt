@@ -1,0 +1,11 @@
+gfxoffsetx=4
+gfxoffsety=0
+gfxwidth=79
+gfxheight=66
+width=46
+height=54
+nofireball=1
+nogravity=1
+noiceball=1
+frames=4
+framestyle=1

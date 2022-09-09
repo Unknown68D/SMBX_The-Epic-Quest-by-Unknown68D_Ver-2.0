@@ -1,0 +1,5 @@
+gfxwidth=18
+gfxheight=18
+width=16
+height=16
+grid=8

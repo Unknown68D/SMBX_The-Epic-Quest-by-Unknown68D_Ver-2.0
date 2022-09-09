@@ -1,0 +1,15 @@
+gfxoffsetx=1
+gfxoffsety=-1
+gfxwidth=42
+gfxheight=40
+width=30
+height=30
+npcblock=1
+npcblocktop=1
+nohurt=1
+speed=0
+noblockcollision=0
+nofireball=0
+nogravity=1
+noiceball=1
+frames=3

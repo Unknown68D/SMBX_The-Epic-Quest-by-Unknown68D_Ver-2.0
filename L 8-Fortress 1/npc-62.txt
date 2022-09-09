@@ -1,0 +1,5 @@
+gfxwidth=0
+gfxheight=0
+foreground=0
+width=96
+height=32

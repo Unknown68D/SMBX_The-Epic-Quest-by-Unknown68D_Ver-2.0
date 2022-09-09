@@ -1,0 +1,6 @@
+foreground=1
+score=3
+speed=3
+frames=2
+framespeed=4
+framestyle=0

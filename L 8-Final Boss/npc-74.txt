@@ -1,0 +1,11 @@
+gfxoffsety=0
+gfxwidth=64
+gfxheight=96
+width=64
+height=96
+score=4
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=2
+grid=1

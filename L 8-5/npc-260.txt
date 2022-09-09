@@ -1,0 +1,2 @@
+foreground=1
+grid=8

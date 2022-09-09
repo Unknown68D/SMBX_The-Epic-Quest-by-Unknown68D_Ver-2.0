@@ -1,0 +1,6 @@
+gfxoffsety=2
+playerblocktop=0
+npcblocktop=0
+npcblock=0
+grabtop=0
+noiceball=1

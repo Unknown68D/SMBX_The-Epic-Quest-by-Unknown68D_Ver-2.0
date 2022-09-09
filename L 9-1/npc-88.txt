@@ -1,0 +1,3 @@
+gfxoffsetx=0
+foreground=0
+width=20

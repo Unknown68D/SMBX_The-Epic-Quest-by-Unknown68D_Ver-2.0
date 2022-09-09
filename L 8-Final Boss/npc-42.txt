@@ -1,0 +1,6 @@
+jumphurt=0
+nohurt=1
+speed=1.38778e-16
+frames=3
+framestyle=0
+nohammer=1

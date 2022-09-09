@@ -1,0 +1,8 @@
+gfxoffsety=8
+gfxwidth=32
+gfxheight=32
+width=32
+height=32
+nofireball=0
+noiceball=0
+nohammer=0

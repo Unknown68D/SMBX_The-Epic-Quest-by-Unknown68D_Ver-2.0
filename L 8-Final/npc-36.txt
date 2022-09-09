@@ -1,0 +1,8 @@
+gfxwidth=82
+gfxheight=72
+width=82
+height=64
+speed=0
+frames=10
+framestyle=1
+grid=8

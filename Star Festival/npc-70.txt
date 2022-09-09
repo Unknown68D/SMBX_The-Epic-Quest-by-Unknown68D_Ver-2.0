@@ -1,0 +1,11 @@
+gfxwidth=184
+gfxheight=140
+foreground=0
+width=184
+height=140
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+nogravity=1
+grid=8

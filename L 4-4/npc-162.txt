@@ -1,0 +1,6 @@
+width=96
+height=34
+gfxwidth=96
+gfxheight=50
+nofireball=1
+noiceball=1

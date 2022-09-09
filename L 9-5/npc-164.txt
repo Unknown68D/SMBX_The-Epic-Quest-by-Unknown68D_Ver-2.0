@@ -1,0 +1,3 @@
+grabtop=1
+framestyle=1
+grid=32

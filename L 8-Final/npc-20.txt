@@ -1,0 +1,11 @@
+gfxwidth=96
+gfxheight=32
+width=96
+height=32
+speed=3
+nofireball=1
+nogravity=1
+noiceball=0
+framespeed=3
+frames=4
+framestyle=1

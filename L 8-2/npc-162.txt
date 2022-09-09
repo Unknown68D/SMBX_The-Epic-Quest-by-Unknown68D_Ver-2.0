@@ -1,0 +1,11 @@
+gfxoffsety=2
+gfxwidth=64
+gfxheight=64
+foreground=1
+width=64
+height=56
+speed=0.75
+noyoshi=1
+frames=2
+framespeed=16
+framestyle=0

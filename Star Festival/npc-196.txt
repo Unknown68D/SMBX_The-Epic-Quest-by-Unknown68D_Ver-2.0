@@ -1,0 +1,5 @@
+width=110
+height=110
+gfxwidth=110
+gfxheight=110
+frames=12

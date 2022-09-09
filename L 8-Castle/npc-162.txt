@@ -1,0 +1,11 @@
+gfxwidth=64
+gfxheight=64
+width=64
+height=56
+score=3
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=2
+framespeed=8
+framestyle=0

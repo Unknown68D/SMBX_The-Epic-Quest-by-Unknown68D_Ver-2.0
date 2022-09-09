@@ -1,0 +1,14 @@
+gfxwidth=62
+gfxheight=42
+foreground=1
+width=62
+height=42
+health=5
+playerblock=0
+playerblocktop=0
+nohurt=1
+noblockcollision=1
+nogravity=1
+frames=8
+framespeed=4
+grid=16

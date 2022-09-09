@@ -1,0 +1,3 @@
+foreground=0
+jumphurt=1
+noblockcollision=1

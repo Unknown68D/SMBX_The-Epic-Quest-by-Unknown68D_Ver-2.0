@@ -1,0 +1,3 @@
+playerblocktop=1
+jumphurt=0
+nohurt=1

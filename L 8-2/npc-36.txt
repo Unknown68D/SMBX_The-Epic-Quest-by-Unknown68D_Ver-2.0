@@ -1,0 +1,14 @@
+gfxoffsety=4
+gfxwidth=68
+gfxheight=68
+foreground=1
+width=64
+height=60
+speed=1
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=2
+framestyle=0
+nohammer=1
+noshell=1

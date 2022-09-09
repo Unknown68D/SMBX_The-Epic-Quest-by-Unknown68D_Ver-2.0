@@ -1,0 +1,7 @@
+width=46
+height=26
+gfxwidth=46
+gfxheight=26
+npcblock=0
+speed=1.5
+noblockcollision=1

@@ -1,0 +1,6 @@
+gfxwidth=96
+gfxheight=20
+width=96
+height=20
+npcblock=1
+npcblocktop=1

@@ -1,0 +1,4 @@
+playerblock=1
+npcblock=1
+npcblocktop=1
+noshell=0

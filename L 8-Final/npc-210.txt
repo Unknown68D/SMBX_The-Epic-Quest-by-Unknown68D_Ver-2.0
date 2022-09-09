@@ -1,0 +1,12 @@
+gfxoffsetx=36
+gfxoffsety=36
+gfxwidth=288
+gfxheight=192
+width=96
+height=96
+npcblock=1
+speed=0.75
+nofireball=1
+frames=4
+framestyle=1
+nohammer=1

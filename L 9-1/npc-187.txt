@@ -1,0 +1,4 @@
+npcblock=0
+npcblocktop=0
+nogravity=1
+speed=0

@@ -1,0 +1,13 @@
+gfxwidth=42
+gfxheight=62
+width=44
+height=32
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+grabtop=0
+jumphurt=0
+noblockcollision=1
+frames=4
+framespeed=16

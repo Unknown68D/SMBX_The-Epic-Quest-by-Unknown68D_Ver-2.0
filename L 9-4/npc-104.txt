@@ -1,0 +1,7 @@
+width=96
+height=32
+gfxwidth=96
+gfxheight=32
+frames=4
+framespeed=5
+framestyle=0

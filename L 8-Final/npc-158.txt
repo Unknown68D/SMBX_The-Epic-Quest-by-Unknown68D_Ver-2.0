@@ -1,0 +1,5 @@
+width=32
+height=32
+speed=1.8
+nogravity=1
+frames=1

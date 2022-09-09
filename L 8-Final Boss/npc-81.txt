@@ -1,0 +1,5 @@
+width=32
+height=64
+nogravity=1
+noiceball=0
+framestyle=0

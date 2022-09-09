@@ -1,0 +1,15 @@
+height=32
+playerblock=1
+playerblocktop=1
+npcblock=1
+npcblocktop=1
+grabtop=0
+jumphurt=0
+nohurt=1
+speed=0
+noblockcollision=0
+nofireball=1
+nogravity=1
+noiceball=1
+frames=1
+nohammer=1

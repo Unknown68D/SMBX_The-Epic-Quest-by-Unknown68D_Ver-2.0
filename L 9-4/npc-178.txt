@@ -1,0 +1,2 @@
+nogravity=1
+noblockcollision=1

@@ -1,0 +1,7 @@
+gfxoffsetx=0
+gfxoffsety=0
+gfxwidth=64
+gfxheight=128
+width=62
+height=126
+grid=16

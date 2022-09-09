@@ -1,0 +1,9 @@
+width=28
+height=58
+gfxwidth=32
+gfxheight=64
+frames=2
+framestyle=0
+playerblocktop=0
+gfxoffsety=-10
+nofireball=0

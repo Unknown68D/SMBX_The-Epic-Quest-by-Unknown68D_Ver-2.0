@@ -1,0 +1,12 @@
+gfxwidth=32
+gfxheight=96
+foreground=0
+width=32
+height=96
+speed=3
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=4
+framespeed=3
+framestyle=0

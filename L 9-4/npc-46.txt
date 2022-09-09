@@ -1,0 +1,10 @@
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+jumphurt=1
+nohurt=0
+nogravity=1
+frames=2
+framespeed=4
+grid=8

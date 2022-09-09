@@ -1,0 +1,6 @@
+gfxoffsety=8
+gfxwidth=160
+gfxheight=160
+width=144
+height=144
+speed=1.5

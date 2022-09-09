@@ -1,0 +1,13 @@
+gfxwidth=32
+gfxheight=32
+foreground=0
+width=32
+height=32
+playerblock=0
+playerblocktop=0
+npcblock=1
+npcblocktop=0
+nohurt=1
+nogravity=1
+frames=1
+name="Player BGO/NPC Block"

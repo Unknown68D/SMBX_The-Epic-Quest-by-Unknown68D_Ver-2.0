@@ -1,0 +1,9 @@
+height=32
+width=32
+gfxheight=38
+gfxwidth=32
+gfxoffsety=6
+nofireball=1
+noiceball=1
+noyoshi=1
+jumphurt=0

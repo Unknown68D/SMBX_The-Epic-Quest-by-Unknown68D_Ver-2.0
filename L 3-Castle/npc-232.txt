@@ -1,0 +1,7 @@
+width=64
+height=64
+jumphurt=1
+speed=2
+nofireball=1
+noiceball=1
+nohammer=1

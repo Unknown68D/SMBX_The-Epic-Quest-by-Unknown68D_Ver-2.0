@@ -1,0 +1,12 @@
+gfxoffsety=180
+gfxwidth=86
+gfxheight=242
+width=52
+height=62
+jumphurt=1
+speed=0.2
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=3
+framestyle=0

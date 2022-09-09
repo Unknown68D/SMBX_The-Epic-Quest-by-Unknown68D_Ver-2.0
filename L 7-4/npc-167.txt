@@ -1,0 +1,7 @@
+playerblocktop=1
+graptop=1
+width=32
+height=32
+gfxwidth=32
+gfxheight=32
+speed=2

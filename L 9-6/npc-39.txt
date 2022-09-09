@@ -1,0 +1,5 @@
+height=100
+width=70
+gfxheight=138
+gfxwidth=70
+speed=2

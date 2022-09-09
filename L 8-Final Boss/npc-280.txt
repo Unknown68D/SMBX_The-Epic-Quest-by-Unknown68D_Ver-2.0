@@ -1,0 +1,9 @@
+gfxwidth=408
+gfxheight=492
+width=408
+height=456
+npcblock=0
+npcblocktop=0
+jumphurt=0
+speed=0.4
+nofireball=1

@@ -1,0 +1,9 @@
+gfxwidth=58
+gfxheight=48
+width=32
+height=32
+npcblock=0
+cliffturn=1
+nofireball=1
+frames=4
+framestyle=1

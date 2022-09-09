@@ -1,0 +1,8 @@
+width=44
+height=60
+gfxheight=64
+gfxwidth=48
+playerblocktop=1
+npcblock=1
+npcblocktop=1
+nohammer=1

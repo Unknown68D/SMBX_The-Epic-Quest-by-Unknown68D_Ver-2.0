@@ -1,0 +1,4 @@
+framestyle=1
+frames=4
+cliffturn=1
+framespeed=11

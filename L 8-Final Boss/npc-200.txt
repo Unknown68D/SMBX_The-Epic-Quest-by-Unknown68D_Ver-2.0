@@ -1,0 +1,5 @@
+gfxwidth=64
+gfxheight=80
+width=64
+height=80
+nofireball=0

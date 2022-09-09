@@ -1,0 +1,4 @@
+width=68
+height=48
+gxwidth=68
+gxfheight=48

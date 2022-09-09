@@ -1,0 +1,2 @@
+cliffturn=1
+nofireball=0

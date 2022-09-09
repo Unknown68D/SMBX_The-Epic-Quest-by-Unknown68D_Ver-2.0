@@ -1,0 +1,4 @@
+gfxwidth=96
+gfxheight=32
+playerblocktop=0
+npcblock=1

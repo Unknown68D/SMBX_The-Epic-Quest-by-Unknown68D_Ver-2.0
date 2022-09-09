@@ -1,0 +1,4 @@
+cliffturn=0
+frames=16
+framespeed=3
+framestyle=2

@@ -1,0 +1,5 @@
+height=32
+gfxheight=64
+gfxoffsety=32
+width=96
+gfxwidth=96

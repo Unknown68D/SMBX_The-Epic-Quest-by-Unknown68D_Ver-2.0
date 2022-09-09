@@ -1,0 +1,8 @@
+gfxwidth=372
+gfxheight=252
+width=348
+height=216
+jumphurt=1
+speed=0.5
+nofireball=1
+frames=8

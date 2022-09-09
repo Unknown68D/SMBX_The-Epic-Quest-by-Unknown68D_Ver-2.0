@@ -1,0 +1,10 @@
+gfxwidth=68
+gfxheight=82
+width=68
+height=82
+health=15
+playerblocktop=0
+npcblocktop=0
+jumphurt=1
+nohurt=0
+noyoshi=1

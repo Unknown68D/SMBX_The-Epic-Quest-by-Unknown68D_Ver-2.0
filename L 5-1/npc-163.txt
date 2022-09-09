@@ -1,0 +1,4 @@
+gfxwidth=64
+npcblock=0
+height=32
+width=60

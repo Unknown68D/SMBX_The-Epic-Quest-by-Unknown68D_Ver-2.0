@@ -1,0 +1,12 @@
+gfxwidth=32
+gfxheight=32
+foreground=1
+playerblocktop=0
+npcblocktop=0
+grabtop=0
+jumphurt=0
+noblockcollision=1
+nofireball=1
+noiceball=1
+frames=1
+framespeed=8

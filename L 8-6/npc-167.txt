@@ -1,0 +1,5 @@
+gfxwidth=40
+gfxheight=48
+foreground=1
+width=32
+height=32

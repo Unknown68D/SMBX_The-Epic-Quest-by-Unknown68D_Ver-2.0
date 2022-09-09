@@ -1,0 +1,2 @@
+playerblocktop=1
+grabtop=1

@@ -1,0 +1,8 @@
+gfxwidth=42
+gfxheight=20
+width=42
+height=20
+nohurt=1
+noblockcollision=1
+frames=2
+framestyle=1

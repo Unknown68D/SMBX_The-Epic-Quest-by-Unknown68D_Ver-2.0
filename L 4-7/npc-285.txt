@@ -1,0 +1,4 @@
+gfxoffsety=0
+nofireball=1
+nogravity=1
+noiceball=1

@@ -1,0 +1,6 @@
+gfxoffsetx=-2
+gfxwidth=20
+gfxheight=32
+width=20
+height=32
+framespeed=12

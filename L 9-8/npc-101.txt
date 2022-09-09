@@ -1,0 +1,8 @@
+gfxoffsety=0
+gfxwidth=352
+gfxheight=336
+width=352
+height=336
+nogravity=1
+frames=18
+framespeed=12

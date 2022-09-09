@@ -1,0 +1,11 @@
+gfxoffsetx=0
+gfxwidth=64
+gfxheight=62
+width=32
+height=62
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+speed=0
+frames=10
+framestyle=0

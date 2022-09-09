@@ -1,0 +1,5 @@
+width=144
+height=54
+gfxwidth=144
+gfxheight=54
+noiceball=0

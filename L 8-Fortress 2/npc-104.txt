@@ -1,0 +1,7 @@
+width=32
+playerblock=1
+playerblocktop=1
+npcblock=1
+npcblocktop=1
+speed=1
+frames=1

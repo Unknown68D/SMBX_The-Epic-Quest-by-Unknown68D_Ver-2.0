@@ -1,0 +1,11 @@
+gfxheight=16
+gfxwidth=16
+height=16
+width=16
+frames=4
+framestyle=0
+playerblocktop=0
+playerblock=0
+npcblock=0
+npcblocktop=0
+jumphurt=0

@@ -1,0 +1,10 @@
+frames=3
+playerblocktop=0
+jumphurt=1
+noblockcollision=1
+width=32
+height=32
+gfxwidth=32
+gfxheight=32
+speed=3.4
+nogravity=1

@@ -1,0 +1,8 @@
+gfxwidth=38
+gfxheight=66
+width=38
+height=66
+speed=0
+frames=2
+framespeed=12
+framestyle=1

@@ -1,0 +1,16 @@
+gfxoffsety=0
+gfxwidth=64
+gfxheight=32
+width=64
+height=32
+playerblock=1
+playerblocktop=1
+npcblock=1
+npcblocktop=1
+nohurt=0
+cliffturn=0
+noyoshi=1
+nogravity=1
+frames=1
+framestyle=0
+noshell=1

@@ -1,0 +1,7 @@
+gfxoffsety=2
+gfxheight=64
+height=64
+npcblock=0
+nohurt=1
+frames=1
+framestyle=1

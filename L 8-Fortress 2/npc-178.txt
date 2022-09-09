@@ -1,0 +1,4 @@
+npcblock=0
+nogravity=1
+frames=1
+grid=16

@@ -1,0 +1,9 @@
+gfxoffsety=0
+gfxwidth=154
+gfxheight=64
+foreground=0
+width=154
+height=64
+noblockcollision=1
+nogravity=1
+framestyle=0

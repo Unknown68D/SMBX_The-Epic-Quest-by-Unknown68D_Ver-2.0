@@ -1,0 +1,6 @@
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+cliffturn=0
+nofireball=0

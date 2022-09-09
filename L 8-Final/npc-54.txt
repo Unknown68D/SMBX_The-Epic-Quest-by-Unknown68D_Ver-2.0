@@ -1,0 +1,5 @@
+jumphurt=1
+speed=1
+noyoshi=1
+nofireball=1
+noiceball=1

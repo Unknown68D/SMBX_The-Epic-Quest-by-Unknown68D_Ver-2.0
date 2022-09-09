@@ -1,0 +1,7 @@
+gfxwidth=20
+gfxheight=18
+foreground=1
+width=16
+height=16
+score=1
+speed=5

@@ -1,0 +1,7 @@
+width=32
+gfxwidth=32
+height=32
+gfxheight=32
+nohurt=1
+frames=1
+noblockcollision=1

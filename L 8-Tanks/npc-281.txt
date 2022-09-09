@@ -1,0 +1,6 @@
+gfxwidth=32
+gfxheight=120
+width=32
+height=110
+speed=0.75
+frames=4

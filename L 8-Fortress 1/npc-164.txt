@@ -1,0 +1,12 @@
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+jumphurt=1
+speed=1
+noyoshi=1
+noiceball=1
+framespeed=16
+nohammer=1
+noshell=1
+name="Reznor"
+grid=4

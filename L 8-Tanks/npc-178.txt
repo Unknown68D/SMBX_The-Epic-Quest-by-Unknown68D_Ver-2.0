@@ -1,0 +1,3 @@
+noblockcollision=1
+nogravity=1
+frames=1

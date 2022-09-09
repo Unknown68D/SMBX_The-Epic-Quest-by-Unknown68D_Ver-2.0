@@ -1,0 +1,9 @@
+gfxwidth=66
+gfxheight=50
+foreground=1
+width=66
+height=50
+jumphurt=1
+framestyle=0
+frames=2
+name="Jellybeam"

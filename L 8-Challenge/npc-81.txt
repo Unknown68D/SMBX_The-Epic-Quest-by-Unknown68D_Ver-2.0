@@ -1,0 +1,11 @@
+gfxwidth=126
+gfxheight=96
+width=126
+height=96
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+noblockcollision=0
+nogravity=0
+frames=1

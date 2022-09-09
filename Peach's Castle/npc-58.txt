@@ -1,0 +1,10 @@
+gfxwidth=192
+gfxheight=224
+foreground=0
+width=192
+height=224
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+grid=8

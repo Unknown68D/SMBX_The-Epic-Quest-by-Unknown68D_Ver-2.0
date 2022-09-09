@@ -1,0 +1,9 @@
+gfxwidth=16
+gfxheight=32
+width=16
+height=30
+jumphurt=1
+speed=0.5
+nofireball=1
+frames=4
+framestyle=1

@@ -1,0 +1,7 @@
+height=610
+width=80
+gfxheight=610
+gfxwidth=160
+nohurt=0
+jumphurt=1
+frames=7

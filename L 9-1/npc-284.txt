@@ -1,0 +1,5 @@
+width=32
+height=48
+gfxheight=50
+gfxwidth=32
+noblockcollision=0

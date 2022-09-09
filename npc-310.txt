@@ -1,0 +1,3 @@
+foreground=0
+grid=16
+noyoshi=1

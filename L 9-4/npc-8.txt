@@ -1,0 +1,10 @@
+width=36
+height=30
+gfxwidth=36
+gfxheight=30
+nofireball=1
+noiceball=1
+noyoshi=1
+frames=1
+framestyle=1
+gfxoffsety=0

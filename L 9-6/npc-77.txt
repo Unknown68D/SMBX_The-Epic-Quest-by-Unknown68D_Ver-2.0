@@ -1,0 +1,9 @@
+width=44
+height=44
+npcblock=0
+npcblocktop=0
+speed=4
+noblockcollision=1
+nofireball=1
+nogravity=1
+noiceball=1

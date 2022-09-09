@@ -1,0 +1,5 @@
+playerblocktop=0
+npcblocktop=0
+jumphurt=1
+noiceball=1
+speed=2

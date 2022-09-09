@@ -1,0 +1,13 @@
+gfxwidth=118
+gfxheight=102
+foreground=1
+width=118
+height=102
+jumphurt=1
+noyoshi=1
+nofireball=0
+nogravity=1
+noiceball=0
+frames=2
+framestyle=0
+name="GiantJellybeam"

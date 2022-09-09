@@ -1,0 +1,8 @@
+gfxoffsety=-44
+gfxwidth=540
+gfxheight=512
+foreground=1
+width=540
+height=600
+jumphurt=1
+nohurt=0

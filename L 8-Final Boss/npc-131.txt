@@ -1,0 +1,11 @@
+gfxoffsetx=4
+gfxwidth=64
+gfxheight=64
+width=32
+height=64
+playerblocktop=0
+npcblocktop=0
+grabtop=0
+noyoshi=1
+frames=2
+framestyle=1

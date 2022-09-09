@@ -1,0 +1,8 @@
+gfxwidth=48
+gfxheight=46
+foreground=1
+width=48
+height=46
+score=3
+speed=0.5
+noyoshi=1

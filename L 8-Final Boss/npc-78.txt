@@ -1,0 +1,8 @@
+gfxwidth=202
+gfxheight=100
+foreground=1
+width=200
+height=55
+speed=0
+frames=4
+framestyle=1

@@ -1,0 +1,7 @@
+gfxwidth=72
+gfxheight=78
+width=72
+height=78
+score=8
+health=50
+speed=1

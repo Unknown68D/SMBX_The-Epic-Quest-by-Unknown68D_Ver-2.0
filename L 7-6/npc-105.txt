@@ -1,0 +1,13 @@
+gfxoffsety=0
+gfxwidth=64
+gfxheight=46
+width=64
+height=46
+npcblock=1
+npcblocktop=1
+nohurt=0
+speed=0
+noblockcollision=0
+frames=2
+framespeed=8
+framestyle=1

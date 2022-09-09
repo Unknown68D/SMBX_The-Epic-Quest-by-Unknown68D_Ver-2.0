@@ -1,0 +1,8 @@
+framestyle=1
+frames=4
+framespeed=11
+width=34
+height=32
+gfxwidth=34
+gfxheight=32
+cliffturn=1

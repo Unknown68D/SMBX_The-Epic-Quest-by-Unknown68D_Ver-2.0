@@ -1,0 +1,11 @@
+width=32
+playerblock=1
+playerblocktop=0
+npcblock=0
+npcblocktop=0
+nohurt=1
+nogravity=1
+frames=3
+framespeed=7
+name="Player_Block/NPC_BGO"
+grid=16

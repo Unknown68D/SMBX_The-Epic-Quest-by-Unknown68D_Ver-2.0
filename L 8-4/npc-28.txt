@@ -1,0 +1,7 @@
+gfxoffsety=4
+gfxwidth=26
+gfxheight=24
+foreground=0
+width=16
+height=16
+score=1

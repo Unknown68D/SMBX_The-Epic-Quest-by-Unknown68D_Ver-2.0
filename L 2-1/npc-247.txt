@@ -1,0 +1,4 @@
+jumphurt=1
+grabtop=0
+playerblocktop=0
+npcblocktop=1

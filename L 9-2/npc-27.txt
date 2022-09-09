@@ -1,0 +1,9 @@
+gfxwidth=96
+gfxheight=50
+width=96
+height=34
+cliffturn=1
+nofireball=1
+noiceball=1
+frames=2
+framestyle=1

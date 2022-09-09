@@ -1,0 +1,11 @@
+gfxheight=16
+width=32
+height=16
+health=99999
+speed=6
+cliffturn=1
+noyoshi=1
+nofireball=1
+noiceball=1
+nohammer=1
+noshell=1

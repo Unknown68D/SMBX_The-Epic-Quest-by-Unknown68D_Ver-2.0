@@ -1,0 +1,5 @@
+frames=8
+framespeed=4
+framestyle=0
+nogravity=1
+foreground=1

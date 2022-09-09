@@ -1,0 +1,13 @@
+height=48
+width=48
+gfxheight=64
+gfxwidth=48
+gfxoffsety=8
+framestyle=1
+framespeed=8
+frames=2
+nofireball=1
+noiceball=1
+noyoshi=1
+jumphurt=1
+score=3

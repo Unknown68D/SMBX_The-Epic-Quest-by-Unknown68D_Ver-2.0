@@ -1,0 +1,7 @@
+height=26
+nogravity=1
+nofireball=1
+noiceball=1
+speed=0.5
+grabtop=0
+noblockcollision=1

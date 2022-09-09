@@ -1,0 +1,4 @@
+jumphurt=0
+noiceball=0
+nohammer=0
+noshell=0

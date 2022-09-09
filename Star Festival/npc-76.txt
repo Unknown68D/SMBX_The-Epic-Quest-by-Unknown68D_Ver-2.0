@@ -1,0 +1,9 @@
+gfxwidth=30
+gfxheight=32
+width=30
+height=32
+playerblocktop=0
+npcblock=0
+nogravity=1
+frames=2
+framestyle=1

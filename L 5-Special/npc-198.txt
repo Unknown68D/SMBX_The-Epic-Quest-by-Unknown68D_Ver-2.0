@@ -1,0 +1,11 @@
+gfxwidth=192
+gfxheight=130
+width=192
+height=130
+playerblock=0
+npcblock=0
+nohurt=1
+speed=0
+noblockcollision=1
+nogravity=1
+frames=1

@@ -1,0 +1,12 @@
+gfxoffsetx=6
+gfxwidth=146
+gfxheight=126
+foreground=1
+width=120
+height=86
+speed=0.75
+noblockcollision=1
+frames=2
+framestyle=1
+noshell=1
+name="Bulber"

@@ -1,0 +1,2 @@
+health=15
+noyoshi=1

@@ -1,0 +1,12 @@
+width=536
+height=576
+gfxwidth=536
+gfxheight=576
+frames=4
+framestyle=1
+framespeed=16
+playerblock=0
+npcblock=0
+playerblocktop=0
+npcblocktop=0
+foreground=1
