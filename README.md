@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/112326715/189486581-90ad8704-223c-434b-b25b-7da9b95a6cd0.png)
+![image](https://i.imgur.com/FLTiyrK.png)
 ---
 Hey there! Thank you so much for checking “The Epic Quest”, my fanmade Super Mario Bros. X Project! This is a project that I have literally grown up creating, as it was first created back in the 2010s, with year-long hiatuses between development at times as well. Now that my project is finally complete, I am very proud to release it to all of you for your enjoyment!
 
