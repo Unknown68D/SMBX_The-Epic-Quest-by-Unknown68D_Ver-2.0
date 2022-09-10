@@ -10,7 +10,7 @@ I hope that you all enjoy playing this everlasting project of mine! It truly mea
 
 ### Much Love, Unknown68D ~ 💙
 
-## How to Download/Set Up (Windows Only)
+## How to Download/Set Up
 
 1. Download the latest SMBX version [HERE](http://codehaus.wohlsoft.ru/downloads.html?) and place it wherever you'd like in your folder structure.
 
