@@ -22,6 +22,6 @@ I hope that you all enjoy playing this everlasting project of mine! It truly mea
 
 ## Patch Logs
 
-In addition to future updates, I will also frequently patch any small bugs and re-upload the episode under the same link. If you encounter an issue with your current version, try checking the patch list below to see if any issue you've encountered has been corrected & re-downloading/pull the episode files again to see if it becomes resolved.
+In addition to future updates, I will also frequently patch any small bugs and re-upload the episode under the same link. If you encounter an issue with your current version, try checking the patch list below to see if any issue you've encountered has been corrected & re-download/pull the episode files again to see if it becomes resolved.
 
 View the patch logs [HERE](https://www.supermariobrosx.org/forums/viewtopic.php?p=375079#wrap).
